@@ -28,4 +28,5 @@
 
 
 ###Notes
-  - ep_headings for editorInfo usage 
+  - ep_headings for editorInfo usage
+  - ep_tasklist for more assistance
