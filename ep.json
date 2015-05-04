@@ -1,0 +1,16 @@
+{
+    "parts": [
+        {
+            "name": "hello",
+            "hooks": {
+                "expressCreateServer" : "ep_nfx/hello:expressCreateServer"
+            }
+        },
+        {
+            "name": "world",
+            "hooks": {
+                "expressCreateServer" : "ep_nfx/world:expressCreateServer"
+            }
+        }        
+    ]
+}
